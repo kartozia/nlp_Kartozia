@@ -1,0 +1,503 @@
+
+ Candidate: black, score: 1.0
+ Candidate: panther, score: 1.0
+ Candidate: is, score: 1.0
+ Candidate: not, score: 1.0
+ Candidate: the, score: 1.0
+ Candidate: first, score: 1.0
+ Candidate: superhero, score: 1.0
+ Candidate: film, score: 1.0
+ Candidate: of, score: 1.0
+ Candidate: this, score: 1.0
+ Candidate: modern, score: 1.0
+ Candidate: cinematic, score: 1.0
+ Candidate: universe, score: 1.0
+ Candidate: era, score: 1.0
+ Candidate: to, score: 1.0
+ Candidate: try, score: 1.0
+ Candidate: say, score: 1.0
+ Candidate: something, score: 1.0
+ Candidate: it, score: 1.0
+ Candidate: even, score: 1.0
+ Candidate: marvel, score: 1.0
+ Candidate: however, score: 1.0
+ Candidate: take, score: 1.0
+ Candidate: controlled, score: 1.0
+ Candidate: political, score: 1.0
+ Candidate: stance, score: 1.0
+ Candidate: reflect, score: 1.0
+ Candidate: uncertainty, score: 1.0
+ Candidate: our, score: 1.0
+ Candidate: own, score: 1.0
+ Candidate: world, score: 1.0
+ Candidate: which, score: 1.0
+ Candidate: that, score: 1.0
+ Candidate: seemed, score: 1.0
+ Candidate: almost, score: 1.0
+ Candidate: impossible, score: 1.0
+ Candidate: given, score: 1.0
+ Candidate: arrived, score: 1.0
+ Candidate: with, score: 1.0
+ Candidate: movie, score: 1.0
+ Candidate: machine, score: 1.0
+ Candidate: conspicuously, score: 1.0
+ Candidate: cranked, score: 1.0
+ Candidate: all, score: 1.0
+ Candidate: way, score: 1.0
+ Candidate: up, score: 1.0
+ Candidate: there, score: 1.0
+ Candidate: are, score: 1.0
+ Candidate: generally, score: 1.0
+ Candidate: three, score: 1.0
+ Candidate: movies, score: 1.0
+ Candidate: per, score: 1.0
+ Candidate: year, score: 1.0
+ Candidate: one, score: 1.0
+ Candidate: or, score: 1.0
+ Candidate: two, score: 1.0
+ Candidate: from, score: 1.0
+ Candidate: dc, score: 1.0
+ Candidate: and, score: 1.0
+ Candidate: then, score: 1.0
+ Candidate: stuff, score: 1.0
+ Candidate: 20th, score: 1.0
+ Candidate: century, score: 1.0
+ Candidate: fox, score: 1.0
+ Candidate: men, score: 1.0
+ Candidate: adjacent, score: 1.0
+ Candidate: franchise, score: 1.0
+ Candidate: loud, score: 1.0
+ Candidate: churns, score: 1.0
+ Candidate: out, score: 1.0
+ Candidate: product, score: 1.0
+ Candidate: necessarily, score: 1.0
+ Candidate: devoid, score: 1.0
+ Candidate: sharp, score: 1.0
+ Candidate: edges, score: 1.0
+ Candidate: might, score: 1.0
+ Candidate: harm, score: 1.0
+ Candidate: mass, score: 1.0
+ Candidate: consumption, score: 1.0
+ Candidate: simplicity, score: 1.0
+ Candidate: prototypical, score: 1.0
+ Candidate: good, score: 1.0
+ Candidate: vs, score: 1.0
+ Candidate: evil, score: 1.0
+ Candidate: comic, score: 1.0
+ Candidate: book, score: 1.0
+ Candidate: conflict, score: 1.0
+ Candidate: part, score: 1.0
+ Candidate: appeal, score: 1.0
+ Candidate: various, score: 1.0
+ Candidate: directors, score: 1.0
+ Candidate: writers, score: 1.0
+ Candidate: involved, score: 1.0
+ Candidate: may, score: 1.0
+ Candidate: have, score: 1.0
+ Candidate: their, score: 1.0
+ Candidate: voices, score: 1.0
+ Candidate: big, score: 1.0
+ Candidate: ideas, score: 1.0
+ Candidate: about, score: 1.0
+ Candidate: colonialism, score: 1.0
+ Candidate: bigotry, score: 1.0
+ Candidate: surveillance, score: 1.0
+ Candidate: but, score: 1.0
+ Candidate: against, score: 1.0
+ Candidate: hum, score: 1.0
+ Candidate: cries, score: 1.0
+ Candidate: faint, score: 1.0
+ Candidate: in, score: 1.0
+ Candidate: context, score: 1.0
+ Candidate: arrives, score: 1.0
+ Candidate: for, score: 1.0
+ Candidate: time, score: 1.0
+ Candidate: clanging, score: 1.0
+ Candidate: gears, score: 1.0
+ Candidate: marketing, score: 1.0
+ Candidate: synergy, score: 1.0
+ Candidate: brand, score: 1.0
+ Candidate: management, score: 1.0
+ Candidate: been, score: 1.0
+ Candidate: overtaken, score: 1.0
+ Candidate: by, score: 1.0
+ Candidate: distinct, score: 1.0
+ Candidate: voice, score: 1.0
+ Candidate: writer, score: 1.0
+ Candidate: director, score: 1.0
+ Candidate: ryan, score: 1.0
+ Candidate: coogler, score: 1.0
+ Candidate: examines, score: 1.0
+ Candidate: isolationist, score: 1.0
+ Candidate: policy, score: 1.0
+ Candidate: through, score: 1.0
+ Candidate: afrofuturist, score: 1.0
+ Candidate: country, score: 1.0
+ Candidate: wakanda, score: 1.0
+ Candidate: prosperous, score: 1.0
+ Candidate: beyond, score: 1.0
+ Candidate: imagination, score: 1.0
+ Candidate: never, score: 1.0
+ Candidate: challenged, score: 1.0
+ Candidate: outsiders, score: 1.0
+ Candidate: because, score: 1.0
+ Candidate: conceals, score: 1.0
+ Candidate: its, score: 1.0
+ Candidate: power, score: 1.0
+ Candidate: behind, score: 1.0
+ Candidate: veil, score: 1.0
+ Candidate: third, score: 1.0
+ Candidate: poverty, score: 1.0
+ Candidate: infant, score: 1.0
+ Candidate: regime, score: 1.0
+ Candidate: protagonist, score: 1.0
+ Candidate: king, score: 1.0
+ Candidate: challa, score: 1.0
+ Candidate: chadwick, score: 1.0
+ Candidate: boseman, score: 1.0
+ Candidate: beginning, score: 1.0
+ Candidate: gingerly, score: 1.0
+ Candidate: reexamine, score: 1.0
+ Candidate: while, score: 1.0
+ Candidate: isolationism, score: 1.0
+ Candidate: allowed, score: 1.0
+ Candidate: thrive, score: 1.0
+ Candidate: meant, score: 1.0
+ Candidate: silence, score: 1.0
+ Candidate: face, score: 1.0
+ Candidate: imperialism, score: 1.0
+ Candidate: oppression, score: 1.0
+ Candidate: inflicted, score: 1.0
+ Candidate: on, score: 1.0
+ Candidate: neighbors, score: 1.0
+ Candidate: africa, score: 1.0
+ Candidate: we, score: 1.0
+ Candidate: ll, score: 1.0
+ Candidate: know, score: 1.0
+ Candidate: how, score: 1.0
+ Candidate: an, score: 1.0
+ Candidate: active, score: 1.0
+ Candidate: fought, score: 1.0
+ Candidate: slave, score: 1.0
+ Candidate: trade, score: 1.0
+ Candidate: other, score: 1.0
+ Candidate: injustices, score: 1.0
+ Candidate: what, score: 1.0
+ Candidate: fuels, score: 1.0
+ Candidate: righteous, score: 1.0
+ Candidate: anger, score: 1.0
+ Candidate: villain, score: 1.0
+ Candidate: erik, score: 1.0
+ Candidate: killmonger, score: 1.0
+ Candidate: stevens, score: 1.0
+ Candidate: michael, score: 1.0
+ Candidate: jordan, score: 1.0
+ Candidate: as, score: 1.0
+ Candidate: doreen, score: 1.0
+ Candidate: st, score: 1.0
+ Candidate: felix, score: 1.0
+ Candidate: writes, score: 1.0
+ Candidate: new, score: 1.0
+ Candidate: yorker, score: 1.0
+ Candidate: shows, score: 1.0
+ Candidate: us, score: 1.0
+ Candidate: limits, score: 1.0
+ Candidate: wakandan, score: 1.0
+ Candidate: project, score: 1.0
+ Candidate: people, score: 1.0
+ Candidate: leaves, score: 1.0
+ Candidate: far, score: 1.0
+ Candidate: archetypal, score: 1.0
+ Candidate: nuisance, score: 1.0
+ Candidate: queasy, score: 1.0
+ Candidate: immature, score: 1.0
+ Candidate: beguiling, score: 1.0
+ Candidate: invisible, score: 1.0
+ Candidate: man, score: 1.0
+ Candidate: living, score: 1.0
+ Candidate: syntax, score: 1.0
+ Candidate: asking, score: 1.0
+ Candidate: difficult, score: 1.0
+ Candidate: questions, score: 1.0
+ Candidate: whether, score: 1.0
+ Candidate: like, score: 1.0
+ Candidate: should, score: 1.0
+ Candidate: intervene, score: 1.0
+ Candidate: go, score: 1.0
+ Candidate: intervention, score: 1.0
+ Candidate: demonstrates, score: 1.0
+ Candidate: ethical, score: 1.0
+ Candidate: complexity, score: 1.0
+ Candidate: does, score: 1.0
+ Candidate: extend, score: 1.0
+ Candidate: rest, score: 1.0
+ Candidate: much, score: 1.0
+ Candidate: genre, score: 1.0
+ Candidate: these, score: 1.0
+ Candidate: days, score: 1.0
+ Candidate: despite, score: 1.0
+ Candidate: entertaining, score: 1.0
+ Candidate: fare, score: 1.0
+ Candidate: can, score: 1.0
+ Candidate: be, score: 1.0
+ Candidate: shadow, score: 1.0
+ Candidate: act, score: 1.0
+ Candidate: brooke, score: 1.0
+ Candidate: obie, score: 1.0
+ Candidate: observes, score: 1.0
+ Candidate: makes, score: 1.0
+ Candidate: sense, score: 1.0
+ Candidate: put, score: 1.0
+ Candidate: shield, score: 1.0
+ Candidate: play, score: 1.0
+ Candidate: anti, score: 1.0
+ Candidate: african, score: 1.0
+ Candidate: racism, score: 1.0
+ Candidate: protect, score: 1.0
+ Candidate: itself, score: 1.0
+ Candidate: white, score: 1.0
+ Candidate: ravagers, score: 1.0
+ Candidate: without, score: 1.0
+ Candidate: having, score: 1.0
+ Candidate: spare, score: 1.0
+ Candidate: any, score: 1.0
+ Candidate: lives, score: 1.0
+ Candidate: battle, score: 1.0
+ Candidate: cost, score: 1.0
+ Candidate: doesn, score: 1.0
+ Candidate: shy, score: 1.0
+ Candidate: away, score: 1.0
+ Candidate: articulating, score: 1.0
+ Candidate: forcing, score: 1.0
+ Candidate: hero, score: 1.0
+ Candidate: acknowledge, score: 1.0
+ Candidate: has, score: 1.0
+ Candidate: ability, score: 1.0
+ Candidate: deliver, score: 1.0
+ Candidate: seen, score: 1.0
+ Candidate: rave, score: 1.0
+ Candidate: reviews, score: 1.0
+ Candidate: historic, score: 1.0
+ Candidate: four, score: 1.0
+ Candidate: day, score: 1.0
+ Candidate: box, score: 1.0
+ Candidate: office, score: 1.0
+ Candidate: gross, score: 1.0
+ Candidate: rivaled, score: 1.0
+ Candidate: only, score: 1.0
+ Candidate: star, score: 1.0
+ Candidate: wars, score: 1.0
+ Candidate: force, score: 1.0
+ Candidate: awakens, score: 1.0
+ Candidate: such, score: 1.0
+ Candidate: work, score: 1.0
+ Candidate: exist, score: 1.0
+ Candidate: within, score: 1.0
+ Candidate: otherwise, score: 1.0
+ Candidate: stifling, score: 1.0
+ Candidate: studio, score: 1.0
+ Candidate: system, score: 1.0
+ Candidate: raises, score: 1.0
+ Candidate: bar, score: 1.0
+ Candidate: everything, score: 1.0
+ Candidate: comes, score: 1.0
+ Candidate: after, score: 1.0
+ Candidate: iron, score: 1.0
+ Candidate: began, score: 1.0
+ Candidate: afghanistan, score: 1.0
+ Candidate: wartime, score: 1.0
+ Candidate: scene, score: 1.0
+ Candidate: sean, score: 1.0
+ Candidate: fennessey, score: 1.0
+ Candidate: ringer, score: 1.0
+ Candidate: described, score: 1.0
+ Candidate: inciting, score: 1.0
+ Candidate: incident, score: 1.0
+ Candidate: expanding, score: 1.0
+ Candidate: place, score: 1.0
+ Candidate: setting, score: 1.0
+ Candidate: happy, score: 1.0
+ Candidate: meal, score: 1.0
+ Candidate: captain, score: 1.0
+ Candidate: america, score: 1.0
+ Candidate: winter, score: 1.0
+ Candidate: soldier, score: 1.0
+ Candidate: marked, score: 1.0
+ Candidate: venture, score: 1.0
+ Candidate: into, score: 1.0
+ Candidate: serious, score: 1.0
+ Candidate: social, score: 1.0
+ Candidate: commentary, score: 1.0
+ Candidate: early, score: 1.0
+ Candidate: cap, score: 1.0
+ Candidate: nick, score: 1.0
+ Candidate: fury, score: 1.0
+ Candidate: debate, score: 1.0
+ Candidate: merits, score: 1.0
+ Candidate: security, score: 1.0
+ Candidate: program, score: 1.0
+ Candidate: will, score: 1.0
+ Candidate: send, score: 1.0
+ Candidate: killer, score: 1.0
+ Candidate: drones, score: 1.0
+ Candidate: patrol, score: 1.0
+ Candidate: launching, score: 1.0
+ Candidate: preemptive, score: 1.0
+ Candidate: strikes, score: 1.0
+ Candidate: terrorists, score: 1.0
+ Candidate: before, score: 1.0
+ Candidate: they, score: 1.0
+ Candidate: raise, score: 1.0
+ Candidate: terror, score: 1.0
+ Candidate: calls, score: 1.0
+ Candidate: fear, score: 1.0
+ Candidate: freedom, score: 1.0
+ Candidate: cites, score: 1.0
+ Candidate: necessity, score: 1.0
+ Candidate: vigilance, score: 1.0
+ Candidate: york, score: 1.0
+ Candidate: reference, score: 1.0
+ Candidate: alien, score: 1.0
+ Candidate: invasion, score: 1.0
+ Candidate: at, score: 1.0
+ Candidate: end, score: 1.0
+ Candidate: avengers, score: 1.0
+ Candidate: means, score: 1.0
+ Candidate: weapons, score: 1.0
+ Candidate: some, score: 1.0
+ Candidate: threatening, score: 1.0
+ Candidate: outside, score: 1.0
+ Candidate: equally, score: 1.0
+ Candidate: horrified, score: 1.0
+ Candidate: developed, score: 1.0
+ Candidate: united, score: 1.0
+ Candidate: states, score: 1.0
+ Candidate: safeguard, score: 1.0
+ Candidate: representing, score: 1.0
+ Candidate: years, score: 1.0
+ Candidate: post, score: 1.0
+ Candidate: paranoia, score: 1.0
+ Candidate: boundary, score: 1.0
+ Candidate: fudging, score: 1.0
+ Candidate: filmmakers, score: 1.0
+ Candidate: were, score: 1.0
+ Candidate: clear, score: 1.0
+ Candidate: interview, score: 1.0
+ Candidate: mother, score: 1.0
+ Candidate: jones, score: 1.0
+ Candidate: great, score: 1.0
+ Candidate: thrillers, score: 1.0
+ Candidate: very, score: 1.0
+ Candidate: current, score: 1.0
+ Candidate: issues, score: 1.0
+ Candidate: them, score: 1.0
+ Candidate: anxiety, score: 1.0
+ Candidate: audience, score: 1.0
+ Candidate: gives, score: 1.0
+ Candidate: immediacy, score: 1.0
+ Candidate: relevant, score: 1.0
+ Candidate: so, score: 1.0
+ Candidate: anthony, score: 1.0
+ Candidate: just, score: 1.0
+ Candidate: looked, score: 1.0
+ Candidate: causing, score: 1.0
+ Candidate: read, score: 1.0
+ Candidate: lot, score: 1.0
+ Candidate: politically, score: 1.0
+ Candidate: inclined, score: 1.0
+ Candidate: had, score: 1.0
+ Candidate: do, score: 1.0
+ Candidate: civil, score: 1.0
+ Candidate: liberties, score: 1.0
+ Candidate: drone, score: 1.0
+ Candidate: president, score: 1.0
+ Candidate: kill, score: 1.0
+ Candidate: list, score: 1.0
+ Candidate: technology, score: 1.0Keyword: black, score: 1.0
+Keyword: panther, score: 1.0
+Keyword: superhero, score: 1.0
+Keyword: film, score: 1.0
+Keyword: modern, score: 1.0
+Keyword: cinematic, score: 1.0
+Keyword: universe, score: 1.0
+Keyword: era, score: 1.0
+Keyword: marvel, score: 1.0
+Keyword: controlled, score: 1.0
+Keyword: political, score: 1.0
+Keyword: stance, score: 1.0
+Keyword: reflect, score: 1.0
+Keyword: uncertainty, score: 1.0
+Keyword: world, score: 1.0
+Keyword: impossible, score: 1.0
+Keyword: arrived, score: 1.0
+Keyword: movie, score: 1.0
+Keyword: machine, score: 1.0
+Keyword: conspicuously, score: 1.0
+Keyword: cranked, score: 1.0
+Keyword: generally, score: 1.0
+Keyword: movies, score: 1.0
+Keyword: year, score: 1.0
+Keyword: dc, score: 1.0
+Keyword: stuff, score: 1.0
+Keyword: 20th, score: 1.0
+Keyword: century, score: 1.0
+Keyword: fox, score: 1.0
+Keyword: men, score: 1.0
+Keyword: adjacent, score: 1.0
+Keyword: franchise, score: 1.0
+Keyword: loud, score: 1.0
+Keyword: churns, score: 1.0
+Keyword: product, score: 1.0
+Keyword: necessarily, score: 1.0
+Keyword: devoid, score: 1.0
+Keyword: sharp, score: 1.0
+Keyword: edges, score: 1.0
+Keyword: harm, score: 1.0
+Keyword: mass, score: 1.0
+Keyword: consumption, score: 1.0
+Keyword: simplicity, score: 1.0
+Keyword: prototypical, score: 1.0
+Keyword: good, score: 1.0
+Keyword: evil, score: 1.0
+Keyword: comic, score: 1.0
+Keyword: book, score: 1.0
+Keyword: conflict, score: 1.0
+Keyword: part, score: 1.0
+Keyword: appeal, score: 1.0
+Keyword: directors, score: 1.0
+Keyword: writers, score: 1.0
+Keyword: involved, score: 1.0
+Keyword: voices, score: 1.0
+Keyword: big, score: 1.0
+Keyword: ideas, score: 1.0
+Keyword: colonialism, score: 1.0
+Keyword: bigotry, score: 1.0
+Keyword: surveillance, score: 1.0
+Keyword: hum, score: 1.0
+Keyword: cries, score: 1.0
+Keyword: faint, score: 1.0
+Keyword: context, score: 1.0
+Keyword: arrives, score: 1.0
+Keyword: time, score: 1.0
+Keyword: clanging, score: 1.0
+Keyword: gears, score: 1.0
+Keyword: marketing, score: 1.0
+Keyword: synergy, score: 1.0
+Keyword: brand, score: 1.0
+Keyword: management, score: 1.0
+Keyword: overtaken, score: 1.0
+Keyword: distinct, score: 1.0
+Keyword: voice, score: 1.0
+Keyword: writer, score: 1.0
+Keyword: director, score: 1.0
+Keyword: ryan, score: 1.0
+Keyword: coogler, score: 1.0
+Keyword: examines, score: 1.0
+Keyword: isolationist, score: 1.0
+Keyword: policy, score: 1.0
+Keyword: afrofuturist, score: 1.0
+Keyword: country, score: 1.0
+Keyword: wakanda, score: 1.0
+Keyword: prosperous, score: 1.0
+Keyword: imagination, score: 1.0
+Keywords:[('day box office gross rivaled', 25.0), ('superhero movie machine conspicuously cranked', 18.416666666666664), ('wartime scene sean fennessey', 16.0), ('coogler examines isolationist policy', 13.166666666666666), ('controlled political stance', 9.0), ('20th century fox', 9.0), ('sharp political edges', 9.0), ('harm mass consumption', 9.0), ('brooke obie observes', 9.0), ('stifling studio system', 9.0), ('iron man began', 9.0), ('great political thrillers', 9.0), ('director ryan coogler', 8.666666666666666), ('invisible man living', 8.5), ('nick fury debate', 8.5), ('black panther arrived', 8.333333333333332), ('black panther arrives', 8.333333333333332), ('black panther demonstrates', 8.333333333333332), ('black panther doesn', 8.333333333333332), ('clanging marvel gears', 8.0), ('send killer drones', 8.0), ('launching preemptive strikes', 8.0), ('civil liberties issues', 8.0), ('isolationism allowed wakanda', 7.6), ('superhero machine', 5.416666666666666), ('black panther', 5.333333333333333), ('superhero fare', 4.75), ('superhero film', 4.5), ('invisible shield', 4.5), ('fury cites', 4.5), ('drone strikes', 4.5), ('preemptive technology', 4.5), ('cinematic universe', 4.0), ('marvel movies', 4.0), ('necessarily devoid', 4.0), ('prototypical good', 4.0), ('comic book', 4.0), ('writers involved', 4.0), ('big ideas', 4.0), ('marketing synergy', 4.0), ('brand management', 4.0), ('distinct voice', 4.0), ('infant regime', 4.0), ('chadwick boseman', 4.0), ('gingerly reexamine', 4.0), ('oppression inflicted', 4.0), ('slave trade', 4.0), ('righteous anger', 4.0), ('doreen st', 4.0), ('felix writes', 4.0), ('wakandan project', 4.0), ('archetypal nuisance', 4.0), ('marvel syntax', 4.0), ('difficult questions', 4.0), ('ethical complexity', 4.0), ('african racism', 4.0), ('white ravagers', 4.0), ('rave reviews', 4.0), ('star wars', 4.0), ('inciting incident', 4.0), ('expanding universe', 4.0), ('place setting', 4.0), ('happy meal', 4.0), ('captain america', 4.0), ('winter soldier', 4.0), ('marked marvel', 4.0), ('social commentary', 4.0), ('security program', 4.0), ('alien invasion', 4.0), ('equally horrified', 4.0), ('united states', 4.0), ('representing years', 4.0), ('9/11 paranoia', 4.0), ('boundary fudging', 4.0), ('mother jones', 4.0), ('current issues', 4.0), ('politically inclined', 4.0), ('kill list', 4.0), ('marvel film', 3.75), ('film means', 3.75), ('active wakanda', 3.6), ('adjacent franchise', 3.5), ('afrofuturist country', 3.5), ('makes sense', 3.5), ('force awakens', 3.5), ('cap calls', 3.5), ('weapons developed', 3.5), ('causing anxiety', 3.5), ('world poverty', 3.333333333333333), ('movie', 3.0), ('machine', 2.6666666666666665), ('coogler', 2.6666666666666665), ('policy', 2.5), ('marvel', 2.0), ('drones', 2.0), ('issues', 2.0), ('film', 1.75), ('wakanda', 1.6), ('country', 1.5), ('franchise', 1.5), ('cap', 1.5), ('weapons', 1.5), ('force', 1.5), ('anxiety', 1.5), ('makes', 1.5), ('world', 1.3333333333333333), ('modern', 1.0), ('era', 1.0), ('reflect', 1.0), ('uncertainty', 1.0), ('impossible', 1.0), ('generally', 1.0), ('year', 1.0), ('dc', 1.0), ('stuff', 1.0), ('men', 1.0), ('loud', 1.0), ('churns', 1.0), ('product', 1.0), ('simplicity', 1.0), ('evil', 1.0), ('conflict', 1.0), ('part', 1.0), ('appeal', 1.0), ('directors', 1.0), ('voices', 1.0), ('colonialism', 1.0), ('bigotry', 1.0), ('surveillance', 1.0), ('hum', 1.0), ('cries', 1.0), ('faint', 1.0), ('context', 1.0), ('time', 1.0), ('overtaken', 1.0), ('writer', 1.0), ('prosperous', 1.0), ('imagination', 1.0), ('challenged', 1.0), ('outsiders', 1.0), ('conceals', 1.0), ('power', 1.0), ('veil', 1.0), ('protagonist', 1.0), ('king', 1.0), ('challa', 1.0), ('beginning', 1.0), ('thrive', 1.0), ('meant', 1.0), ('silence', 1.0), ('face', 1.0), ('imperialism', 1.0), ('neighbors', 1.0), ('africa', 1.0), ('ll', 1.0), ('fought', 1.0), ('injustices', 1.0), ('fuels', 1.0), ('villain', 1.0), ('erik', 1.0), ('killmonger', 1.0), ('stevens', 1.0), ('michael', 1.0), ('jordan', 1.0), ('yorker', 1.0), ('shows', 1.0), ('limits', 1.0), ('people', 1.0), ('leaves', 1.0), ('queasy', 1.0), ('immature', 1.0), ('beguiling', 1.0), ('intervene', 1.0), ('intervention', 1.0), ('extend', 1.0), ('rest', 1.0), ('genre', 1.0), ('days', 1.0), ('entertaining', 1.0), ('shadow', 1.0), ('act', 1.0), ('put', 1.0), ('play', 1.0), ('anti', 1.0), ('protect', 1.0), ('spare', 1.0), ('lives', 1.0), ('battle', 1.0), ('cost', 1.0), ('shy', 1.0), ('articulating', 1.0), ('forcing', 1.0), ('hero', 1.0), ('acknowledge', 1.0), ('ability', 1.0), ('deliver', 1.0), ('historic', 1.0), ('work', 1.0), ('exist', 1.0), ('raises', 1.0), ('bar', 1.0), ('afghanistan', 1.0), ('ringer', 1.0), ('venture', 1.0), ('early', 1.0), ('merits', 1.0), ('patrol', 1.0), ('terrorists', 1.0), ('raise', 1.0), ('terror', 1.0), ('fear', 1.0), ('freedom', 1.0), ('necessity', 1.0), ('vigilance', 1.0), ('york', 1.0), ('reference', 1.0), ('end', 1.0), ('avengers', 1.0), ('threatening', 1.0), ('safeguard', 1.0), ('post', 1.0), ('filmmakers', 1.0), ('clear', 1.0), ('2014 interview', 1.0), ('audience…', 1.0), ('immediacy', 1.0), ('relevant', 1.0), ('anthony', 1.0), ('looked', 1.0), ('read', 1.0), ('lot', 1.0), ('president', 1.0)]
