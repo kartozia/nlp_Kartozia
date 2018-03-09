@@ -1,7 +1,35 @@
 ### HW RAKE
 #### Совместно с Машей Бибаевой
-- [x] текст про фильм "Чёрная Пантера"
-- [x] [ключевые слова выделены мной и Машей в гуглдоке + топ слова](https://docs.google.com/document/d/1j5p2sc8HoWWiSpwcUqXYE2kylt7paMbPTUtc8Y06p9Y/edit?usp=sharing)
+- [x] [текст про фильм "Чёрная Пантера" + ключевые слова выделены мной и Машей в гуглдоке](https://docs.google.com/document/d/1j5p2sc8HoWWiSpwcUqXYE2kylt7paMbPTUtc8Y06p9Y/edit?usp=sharing)
+- [x] таблица по ключевым словам
+
+Ключевые слова|Инга|Маша|RAKE
+--------------|----|----|----
+Black panther|+|+|+(выделяет в составе нескольких триграмм)
+To try to say something|-|+|-
+A controlled political stance|+|-|+
+Uncertainty of our own world|+|-|-
+Superhero movie machine|+|+|-
+Marvel movies|+|+|-
+Distinct voice of writer-director Ryan Coogler|+|-|-
+Isolationist policy|+|-|-
+Country of Wakanda|-|+|-
+Conceals its power|-|+|-
+Reexamine this policy|-|+|-
+Erik “Killmonger” Stevens|+|+|-
+Wakanda|+|-|-
+Demonstrates an ethical complexity|+|-|-
+Put up an invisible shield|+|-|-
+An invisible shield|+|+|-
+But, there is a cost|-|+|-
+A historic four-day box office gross|-|+|-
+Marvel’s first venture into serious social commentary|-|+|-
+reflect the anxiety of the audience|+|+|-
+civil liberties issues|+|-|-
+drone strikes|+|-|-
+the president’s kill list|+|-|-
+preemptive technology|+|-|-
+
 
 #### Процент совпадения: 
 - [x] [результат выдачи оригинального RAKE](./old_RAKE.txt)
