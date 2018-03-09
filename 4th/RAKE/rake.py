@@ -66,8 +66,12 @@ def separate_words(text, min_word_return_size):
         current_word = m.lemmatize(current_word)
  #       print(current_word[0])
         # leave numbers in phrase, but don't count as words, since they tend to invalidate scores of their phrases
-        if len(current_word[0]) > min_word_return_size and current_word[0] != '' and not is_number(current_word[0]):
-            words.append(current_word[0])
+        if len(current_word) > 1:
+            if len(current_word[0]) > min_word_return_size and current_word[0] != '' and not is_number(current_word[0]):
+                words.append(current_word[0])
+        elif len(current_word) == 1:
+            if len(current_word) > min_word_return_size and current_word != '' and not is_number(current_word):
+                words.append(current_word)
     return words
 
 
