@@ -1,7 +1,7 @@
 ### HW RAKE
 #### Совместно с Машей Бибаевой
 - [x] текст про фильм "Чёрная Пантера"
-- [x] [ключевые слова выделены мной и Машей в гуглдоке + топ слова](https://github.com/kartozia/nlp_Kartozia/blob/master/4th/RAKE/panther_keywords.txt)
+- [x] [ключевые слова выделены мной и Машей в гуглдоке + топ слова](https://docs.google.com/document/d/1j5p2sc8HoWWiSpwcUqXYE2kylt7paMbPTUtc8Y06p9Y/edit?usp=sharing)
 
 #### Процент совпадения: 
 
