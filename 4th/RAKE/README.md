@@ -4,8 +4,8 @@
 - [x] [ключевые слова выделены мной и Машей в гуглдоке + топ слова](https://docs.google.com/document/d/1j5p2sc8HoWWiSpwcUqXYE2kylt7paMbPTUtc8Y06p9Y/edit?usp=sharing)
 
 #### Процент совпадения: 
-
-- [x] [результат выдачи RAKE](./panther_keywords.txt)
+- [x] [результат выдачи оригинального RAKE](./old_RAKE.txt)
+- [x] [результат выдачи улучшенного RAKE](./panther_keywords.txt)
 
 #### Топ-15:
 1. controlled political stance, 9.0
