@@ -1,11 +1,39 @@
 ### HW RAKE
 #### Совместно с Машей Бибаевой
-- [x] текст про фильм "Чёрная Пантера"
-- [x] [ключевые слова выделены мной и Машей в гуглдоке + топ слова](https://github.com/kartozia/nlp_Kartozia/blob/master/4th/RAKE/panther_keywords.txt)
+- [x] [текст про фильм "Чёрная Пантера" + ключевые слова выделены мной и Машей в гуглдоке](https://docs.google.com/document/d/1j5p2sc8HoWWiSpwcUqXYE2kylt7paMbPTUtc8Y06p9Y/edit?usp=sharing)
+- [x] таблица по ключевым словам
+
+Ключевые слова|Инга|Маша|RAKE
+--------------|----|----|----
+Black panther|+|+|+(выделяет в составе нескольких триграмм)
+To try to say something|-|+|-
+A controlled political stance|+|-|+
+Uncertainty of our own world|+|-|-
+Superhero movie machine|+|+|-
+Marvel movies|+|+|-
+Distinct voice of writer-director Ryan Coogler|+|-|-
+Isolationist policy|+|-|-
+Country of Wakanda|-|+|-
+Conceals its power|-|+|-
+Reexamine this policy|-|+|-
+Erik “Killmonger” Stevens|+|+|-
+Wakanda|+|-|-
+Demonstrates an ethical complexity|+|-|-
+Put up an invisible shield|+|-|-
+An invisible shield|+|+|-
+But, there is a cost|-|+|-
+A historic four-day box office gross|-|+|-
+Marvel’s first venture into serious social commentary|-|+|-
+reflect the anxiety of the audience|+|+|-
+civil liberties issues|+|-|-
+drone strikes|+|-|-
+the president’s kill list|+|-|-
+preemptive technology|+|-|-
+
 
 #### Процент совпадения: 
-
-- [x] [результат выдачи RAKE](./panther_keywords.txt)
+- [x] [результат выдачи оригинального RAKE](./old_RAKE.txt)
+- [x] [результат выдачи улучшенного RAKE](./panther_keywords.txt)
 
 #### Топ-15:
 1. controlled political stance, 9.0
@@ -25,7 +53,7 @@
 15. clanging marvel gears, 8.0
 
 11-14 могли бы быть объединены в одно ключевое слово: black panther
-В остальном, RAKE достаточно неплохо выделил ключеные слова
+В остальном, RAKE достаточно неплохо выделил ключеные слова, однако совпадений с выделенными нами словами почти не было (только black panther и a controlled political stance).
 
 #### Ошибочно выделенные слова (на наш взгляд): 
 
